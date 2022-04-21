@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background: #313582;
+}
+
+.navbar{
+    width: 1000px;
+    margin: 30px auto;
+    background: white;
+}
+
+.navbar ul{
+    list-style: none;
+}
+
+
